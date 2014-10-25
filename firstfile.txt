@@ -1,1 +1,2 @@
 the file will be the first file to be staged and deleted.
+this line of text will be track by git.
